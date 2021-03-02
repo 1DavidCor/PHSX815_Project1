@@ -15,3 +15,9 @@ Note: Must use all input values for all parameters. I defined default values to 
 
 H0.txt:
 This is a sample output file containing the constructed chi-square distribution from the example command written above.
+
+PDF:
+Write-up of the project.
+
+.png files:
+These are sample outputs of the istograms that Chi_Square_Generator.py creates.
